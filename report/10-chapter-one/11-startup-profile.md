@@ -28,6 +28,73 @@ A largo plazo, VitaLink podrá evolucionar mediante la integración con disposit
 
 ### 1.1.2 Perfiles de integrantes del equipo
 
+\noindent
+\begin{tabular}{p{0.72\textwidth} p{0.23\textwidth}}
+    \textbf{Integrante 1: (Escribe aca)} \newline
+    \textbf{Código de estudiante:} (Escribe aca) \newline
+    \textbf{Carrera:} (Escribe aca) \newline
+    \textbf{Descripción:} (Escribe aca) \newline
+    \textbf{Aporte al equipo:} (Escribe aca)
+    & 
+    \vspace{-0.5cm} % Ajusta este valor para subir/bajar la foto
+    \includegraphics[width=\linewidth]{assets/f1.jpeg}
+\end{tabular}
+
+\vspace{0.8cm}
+
+\noindent
+\begin{tabular}{p{0.72\textwidth} p{0.23\textwidth}}
+    \textbf{Integrante 1: (Escribe aca)} \newline
+    \textbf{Código de estudiante:} (Escribe aca) \newline
+    \textbf{Carrera:} (Escribe aca) \newline
+    \textbf{Descripción:} (Escribe aca) \newline
+    \textbf{Aporte al equipo:} (Escribe aca)
+    & 
+    \vspace{-0.5cm} % Ajusta este valor para subir/bajar la foto
+    \includegraphics[width=\linewidth]{assets/f1.jpeg}
+\end{tabular}
+
+\vspace{0.8cm}
+
+\noindent
+\begin{tabular}{p{0.72\textwidth} p{0.23\textwidth}}
+    \textbf{Integrante 1: (Escribe aca)} \newline
+    \textbf{Código de estudiante:} (Escribe aca) \newline
+    \textbf{Carrera:} (Escribe aca) \newline
+    \textbf{Descripción:} (Escribe aca) \newline
+    \textbf{Aporte al equipo:} (Escribe aca)
+    & 
+    \vspace{-0.5cm} % Ajusta este valor para subir/bajar la foto
+    \includegraphics[width=\linewidth]{assets/f1.jpeg}
+\end{tabular}
+
+\vspace{0.8cm}
+
+\noindent
+\begin{tabular}{p{0.72\textwidth} p{0.23\textwidth}}
+    \textbf{Integrante 1: (Escribe aca)} \newline
+    \textbf{Código de estudiante:} (Escribe aca) \newline
+    \textbf{Carrera:} (Escribe aca) \newline
+    \textbf{Descripción:} (Escribe aca) \newline
+    \textbf{Aporte al equipo:} (Escribe aca)
+    & 
+    \vspace{-0.5cm} % Ajusta este valor para subir/bajar la foto
+    \includegraphics[width=\linewidth]{assets/f1.jpeg}
+\end{tabular}
+
+\vspace{0.8cm}
+
+\noindent
+\begin{tabular}{p{0.72\textwidth} p{0.23\textwidth}}
+    \textbf{Integrante 1: (Escribe aca)} \newline
+    \textbf{Código de estudiante:} (Escribe aca) \newline
+    \textbf{Carrera:} (Escribe aca) \newline
+    \textbf{Descripción:} (Escribe aca) \newline
+    \textbf{Aporte al equipo:} (Escribe aca)
+    & 
+    \vspace{-0.5cm} % Ajusta este valor para subir/bajar la foto
+    \includegraphics[width=\linewidth]{assets/f1.jpeg}
+\end{tabular}
 
 
 
