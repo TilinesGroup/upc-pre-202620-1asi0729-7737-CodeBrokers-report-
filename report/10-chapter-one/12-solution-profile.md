@@ -68,31 +68,35 @@ Sabremos que tenemos exito cuando se logre una reduccion del 50% en el tiempo ne
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-* **Hypothesis Statement 1**
-  * **We believe we will achieve** a 30% increase in monthly platform retention
-  * **If** primary family caregivers
-  * **Attain** continuous peace of mind regarding the daily vital signs and health stability of their elderly relatives
-  * **With** an interactive real-time dashboard displaying simulated IoT telemetry metrics (heart rate, SpO2, and fall detection).
+* **Declaracion de Hipotesis 1**
+  * **Creemos que lograremos** un incremento del 30% en la retencion mensual de la plataforma
+  * **Si** los cuidadores familiares principales
+  * **Obtienen** tranquilidad continua respecto a los signos vitales diarios y la estabilidad de salud de sus familiares de la tercera edad
+  * **Con** un panel interactivo en tiempo real que visualiza metricas de telemetria IoT simulada (frecuencia cardiaca, SpO2 y deteccion de caidas).
 
-* **Hypothesis Statement 2**
-  * **We believe we will achieve** a 50% reduction in the average time required to coordinate an urgent medical consultation
-  * **If** family caregivers
-  * **Attain** immediate medical appointment booking without the need to manually search or contact multiple healthcare providers
-  * **With** an intelligent auto-scheduling feature that suggests and reserves optimal slots in nearby affiliated medical centers.
+* **Declaracion de Hipotesis 2**
+  * **Creemos que lograremos** una reduccion del 50% en el tiempo promedio requerido para coordinar una consulta medica de urgencia
+  * **Si** los cuidadores familiares
+  * **Obtienen** el agendamiento inmediato de citas medicas sin necesidad de buscar o contactar manualmente a multiples proveedores de salud
+  * **Con** una funcionalidad de auto-agendamiento inteligente que sugiere y reserva cupos optimos en centros medicos afiliados cercanos.
 
-* **Hypothesis Statement 3**
-  * **We believe we will achieve** a 40% growth in affiliated clinic partnerships and healthcare network expansion
-  * **If** healthcare providers and clinic reception staff
-  * **Attain** pre-triaged patient admissions and instant access to chronological biometric history before patient arrival
-  * **With** a centralized patient health record and triage export module.
+* **Declaracion de Hipotesis 3**
+  * **Creemos que lograremos** un crecimiento del 40% en convenios con clinicas afiliadas y expansion de la red de salud
+  * **Si** los proveedores de salud y el personal de recepcion clinica
+  * **Obtienen** admisiones de pacientes pre-triados y acceso instantaneo al historial biometrico cronologico antes de la llegada del paciente
+  * **Con** un modulo centralizado de historial de salud del paciente y exportacion de triaje.
 
-* **Hypothesis Statement 4**
-  * **We believe we will achieve** a 75% confirmation rate on emergency health alerts within the first 5 minutes
-  * **If** designated family tutors
-  * **Attain** immediate awareness of abnormal physiological thresholds or detected emergency incidents
-  * **With** an automated external notification integration using SMS and emergency messaging services.
+* **Declaracion de Hipotesis 4**
+  * **Creemos que lograremos** una tasa de confirmacion del 75% en alertas de emergencia dentro de los primeros 5 minutos
+  * **Si** los tutores familiares designados
+  * **Obtienen** conocimiento inmediato de umbrales fisiologicos fuera de rango o incidentes criticos detectados
+  * **Con** una integracion de notificaciones externas automatizadas mediante SMS y servicios de mensajeria de emergencia.
 
-* **Hypothesis Statement 5**
+* **Declaracion de Hipotesis 5**
+  * **Creemos que lograremos** una tasa de adopcion del 35% en hogares de bajos recursos sin cobertura de seguro medico privado
+  * **Si** los adultos mayores sin seguro y sus cuidadores
+  * **Obtienen** acceso a consultas preventivas a bajo costo y derivacion directa hacia redes comunitarias de salud
+  * **Con** un modulo integrado de atencion a tarifa social coordinado junto a organizaciones comunitarias de salud.
   * **We believe we will achieve** a 35% adoption rate among low-income households without private healthcare coverage
   * **If** uninsured elderly patients and their caregivers
   * **Attain** access to low-cost preventive consultations and direct referral to community health networks
@@ -101,3 +105,16 @@ Sabremos que tenemos exito cuando se logre una reduccion del 50% en el tiempo ne
 
 #### 1.2.2.4. Lean UX Canvas
 
+#### 1.2.2.4. Lean UX Canvas
+
+| 1. Business Problem | 2. Business Outcomes | 3. Users |
+|  :---               | :---                 | :---     |
+| El cuidado de adultos mayores depende de registros manuales y respuestas reactivas ante emergencias de salud, generando demoras criticas y desconexion entre el monitoreo diario del hogar y los centros de atencion medica. | - Reduccion del 50% en el tiempo para coordinar una cita ante anomalias.<br>- Tasa minima del 70% de aceptacion en citas pre-agendadas.<br>- Afiliacion de al menos 15 centros de salud a la red.<br>- Incremento del 30% en la retencion mensual de familias suscriptoras. | - Cuidadores familiares principales (hijos, tutores).<br>- Adultos mayores con enfermedades cronicas.<br>- Centros de salud y profesionales medicos independientes. |
+
+| 4. User Outcomes & Benefits | 5. Solutions | 6. Hypotheses |
+| :--- | :--- | :--- |
+| - Deteccion temprana de anomalias biometricas y tranquilidad familiar continua.<br>- Atencion medica rapida sin busqueda manual de proveedores en crisis.<br>- Historial clinico y triaje previo disponible para el medico antes de la consulta.<br>- Acceso a consultas a tarifa social para adultos mayores sin seguro. | - Plataforma SaaS con tablero de telemetria IoT simulada en tiempo real.<br>- Sistema inteligente de triaje y pre-agendamiento automatico de consultas.<br>- Historial biometrico centralizado y ficha de triaje exportable.<br>- Modulo de atencion a tarifa social conectado con policlinicos y ONGs.<br>- Notificaciones automatizadas via SMS y mensajeria de emergencia. | - Creemos que el monitoreo IoT en tiempo real lograra un 30% mas de retencion mensual al brindar tranquilidad continua a los cuidadores.<br>- Creemos que el auto-agendamiento inteligente reducira en 50% el tiempo de coordinacion de citas de urgencia.<br>- Creemos que el historial y triaje previo aumentara un 40% los convenios con clinicas.<br>- Creemos que las alertas SMS lograran un 75% de confirmacion en los primeros 5 minutos.<br>- Creemos que la tarifa social lograra un 35% de adopcion en hogares sin seguro privado. |
+
+| 7. What is the most important thing we need to learn first? | 8. What is the least amount of work we need to do to learn the next most important thing? |
+| :--- | :--- |
+| - Validar si los cuidadores familiares aceptan y confian en el auto-agendamiento ante una anomalia detectada.<br>- Confirmar la disposicion de las clinicas para publicar y gestionar sus cupos de atencion dentro del SaaS.<br>- Identificar el rango de precio mensual aceptable para los planes familiares de suscripcion. | - Desplegar la Landing Page con la propuesta de valor y medir el interes de registro de cuidadores y clinicas.<br>- Probar prototipos interactivos en Figma con cuidadores para validar el flujo de confirmacion de citas en un clic.<br>- Ejecutar simulaciones del flujo de datos IoT y pre-agendamiento en el MVP inicial. |
