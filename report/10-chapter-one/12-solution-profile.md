@@ -105,8 +105,6 @@ Sabremos que tenemos exito cuando se logre una reduccion del 50% en el tiempo ne
 
 #### 1.2.2.4. Lean UX Canvas
 
-#### 1.2.2.4. Lean UX Canvas
-
 | 1. Business Problem | 2. Business Outcomes | 3. Users |
 |  :---               | :---                 | :---     |
 | El cuidado de adultos mayores depende de registros manuales y respuestas reactivas ante emergencias de salud, generando demoras criticas y desconexion entre el monitoreo diario del hogar y los centros de atencion medica. | - Reduccion del 50% en el tiempo para coordinar una cita ante anomalias.<br>- Tasa minima del 70% de aceptacion en citas pre-agendadas.<br>- Afiliacion de al menos 15 centros de salud a la red.<br>- Incremento del 30% en la retencion mensual de familias suscriptoras. | - Cuidadores familiares principales (hijos, tutores).<br>- Adultos mayores con enfermedades cronicas.<br>- Centros de salud y profesionales medicos independientes. |
