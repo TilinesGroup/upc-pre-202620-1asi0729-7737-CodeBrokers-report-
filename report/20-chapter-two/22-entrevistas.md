@@ -38,7 +38,7 @@
 
 ---
 
-#### Segmento 3: Adultos Mayores
+#### Segmento 2: Adultos Mayores
 
 1. ¿Cómo controla usted actualmente su salud en el día a día (medicinas, presión, actividad, etc.)?
 2. ¿Qué dificultades tiene para recordar tomar sus medicinas o realizar controles de salud?
