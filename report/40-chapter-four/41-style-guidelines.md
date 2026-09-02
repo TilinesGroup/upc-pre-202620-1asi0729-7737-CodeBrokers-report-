@@ -49,6 +49,24 @@ La tipografía y los colores serán utilizados manteniendo un contraste adecuado
 
 \includegraphics[width=0.7\linewidth]{assets/colors.png}
 
+
+### Spacing
+El sistema de spacing mantiene una estructura consistente para conseguir una interfaz ordenada, profesional y fácil de utilizar:
+
+* **Spacing base de 0.5 rem (8 px)** para mantener consistencia y ritmo visual entre los diferentes elementos de la aplicación.
+* **Padding interno de 1.5 rem a 3.75 rem (24–60 px)** en tarjetas, contenedores y secciones principales, proporcionando suficiente espacio para evitar una apariencia sobrecargada.
+* **Separación entre secciones de 3.75 rem a 5 rem (60–80 px)** para establecer una jerarquía clara entre los diferentes bloques de contenido.
+* **Spacing entre elementos relacionados de 0.5 rem a 1.875 rem (8–30 px)**, dependiendo de su nivel de relación y jerarquía.
+* **Componentes interactivos:** Mantienen un espacio suficiente alrededor de ellos para facilitar la navegación y mejorar la experiencia de usuario.
+
+### Tono de Comunicación
+La comunicación de Vitalink Professional busca transmitir profesionalismo, confianza y cercanía, utilizando un lenguaje sencillo que permita al usuario comprender rápidamente la información proporcionada.
+
+* **Equilibrio:** Profesional pero accesible (75% formal, 25% cercano), proyectando una imagen confiable sin generar una comunicación excesivamente rígida.
+* **Actitud:** Segura, clara y positiva (85% profesional, 15% entusiasta), especialmente en mensajes relacionados con acciones, resultados y mejoras.
+* **Lenguaje:** Directo, claro y orientado a beneficios, evitando términos técnicos innecesarios y priorizando información que pueda ser comprendida rápidamente.
+* **Voz:** Profesional, confiable y orientada al bienestar, posicionando Vitalink Professional como una herramienta que facilita la gestión y permite tomar decisiones basadas en información clara.
+
 ### 4.1.1. General Style Guidelines
 
 
