@@ -1,10 +1,12 @@
 # 4. Capítulo IV: Product Design
 
+## 4.1. Style Guidelines 
+
 El diseño visual de la aplicación VitaLink sigue una estética entre lo clínico y lo confiable, esto porque va relacionado a la identidad que tiene el startup BrokerCodes y el compromiso que tenemos por ofrecer soluciones de calidad hacia el sector salud, enfocadas en el cuidado y acompañamiento de adultos mayores.
 
 Es por esto que, en este capítulo, describiremos cada uno de los detalles y estilos que estaremos utilizando al momento de desarrollar la aplicación (siguiendo los principios UX y UI).
 
-## 4.1. Style Guidelines 
+### 4.1.1. General Style Guidelines
 
 **Branding**
 
@@ -66,10 +68,6 @@ La comunicación de Vitalink Professional busca transmitir profesionalismo, conf
 * **Actitud:** Segura, clara y positiva (85% profesional, 15% entusiasta), especialmente en mensajes relacionados con acciones, resultados y mejoras.
 * **Lenguaje:** Directo, claro y orientado a beneficios, evitando términos técnicos innecesarios y priorizando información que pueda ser comprendida rápidamente.
 * **Voz:** Profesional, confiable y orientada al bienestar, posicionando Vitalink Professional como una herramienta que facilita la gestión y permite tomar decisiones basadas en información clara.
-
-### 4.1.1. General Style Guidelines
-
-
 
 ### 4.1.2. Web Style Guidelines
 
