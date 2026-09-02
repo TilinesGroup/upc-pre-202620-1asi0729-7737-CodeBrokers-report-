@@ -37,7 +37,7 @@ Aunque Doctoralia no se encuentra orientada específicamente al monitoreo preven
 
 Analizar a la competencia permitirá identificar cómo VitaLink puede diferenciarse de otras soluciones de monitoreo, cuidado de adultos mayores y acceso a servicios de salud, considerando las necesidades de las familias y proveedores de salud en el mercado peruano.
 
-| | | **VitaLink** | **iDUAM / iDUAMTata** | **CarePredict** | **Doctoralia Perú** |
+| | | **VitaLink** | **iDUAM / iDUAMTata** ![Iduam.png](../../assests/Iduam.png) | **CarePredict** ![CarePredict.png](../../assests/CarePredict.png) | **Doctoralia Perú** ![Doctoralia.png](../../assests/Doctoralia.png) |
 |---|---|---|---|---|---|
 | **Perfil** | **Overview** | Plataforma orientada al monitoreo preventivo y acompañamiento de adultos mayores, conectando familiares y proveedores de salud. | Plataforma de telesalud que integra monitoreo biométrico, telemedicina y asistencia para adultos mayores. | Plataforma de monitoreo para adultos mayores mediante wearable y análisis de sus actividades diarias. | Plataforma que conecta pacientes con profesionales de salud y facilita la reserva de consultas. |
 | **Perfil** | **Ventaja competitiva ¿Qué valor ofrece a los clientes?** | Integra monitoreo preventivo, participación familiar y conexión con proveedores de salud en un mismo ecosistema. | Combina monitoreo biométrico, telemedicina, funciones de emergencia y una red familiar. | Especialización en adultos mayores mediante monitoreo continuo y detección de cambios en sus actividades. | Amplia red de profesionales y facilidad para buscar, comparar y reservar servicios médicos. |
