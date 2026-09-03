@@ -232,7 +232,7 @@ La implementación de estos SEO Tags y Meta Tags permitirá mantener una identif
 
 ### 4.2.4. Searching Systems
 
-
+En el Landing Page no se implementa un sistema de búsqueda, dado que el volumen de contenido es reducido y la navegación secuencial es suficiente para que el visitante encuentre la información que necesita.
 
 ### 4.2.5. Navigation Systems
 
