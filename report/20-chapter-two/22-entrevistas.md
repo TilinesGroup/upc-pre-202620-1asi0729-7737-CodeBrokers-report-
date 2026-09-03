@@ -76,6 +76,10 @@
 
 Dafne Cabrera Sánchez, de 23 años, se desempeña como cuidadora y asistente de salud, donde fue contratada para brindar atención y seguimiento continuo a sus pacientes. Actualmente utiliza notas rápidas, carpetas físicas y llamadas telefónicas para organizar información, comunicarse con la familia y llevar el control de los casos, incluyendo observaciones verbales y pendientes. La supervisión del estado del paciente se realiza mediante llamadas esporádicas o revisiones presenciales cada cierto tiempo, lo que impide contar con información en tiempo real. Esto genera una gestión reactiva, especialmente cuando ocurren imprevistos entre consultas, obligándola a depender de que alguien la llame para enterarse tarde de las incidencias. Esta situación ha ocasionado episodios de falta de coordinación, duplicidad en las llamadas de atención y pérdida de información importante, además de dificultar la toma de decisiones al no tener los datos centralizados. Para revisar historiales o antecedentes, realiza una búsqueda manual en papeles, aunque reconoce que el proceso podría ser mucho más eficiente. Dafne considera que una solución que permita visualizar de inmediato las alertas urgentes, centralizar el historial y enviar notificaciones automáticas le ayudaría a ahorrar tiempo y mejorar la gestión, priorizando que la plataforma sea rápida, segura y transparente sobre quién accede a los datos.
 
+#### Entrevista 2
+
+\includegraphics[width=0.7\linewidth]{assets/entrevista 2.png}
+
 **Nombres y apellidos:** Jimena Villanueva Romero
 
 **Edad:** 22 años
