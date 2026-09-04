@@ -236,9 +236,9 @@ La distribución de las plataformas será:
 
 | Producto digital | Plataforma de despliegue |
 |------------------|--------------------------|
-| Landing Page | Cloudflare Pages |
-| Frontend Web Application | Netlify |
-| RESTful Web Services | Azure Web App Service |
+| Landing Page |  |
+| Frontend Web Application | |
+| RESTful Web Services |  |
 
 Esta estrategia permitirá mantener separados los procesos de despliegue de cada componente de VitaLink y facilitará la actualización progresiva de la solución durante los diferentes Sprints.
 
