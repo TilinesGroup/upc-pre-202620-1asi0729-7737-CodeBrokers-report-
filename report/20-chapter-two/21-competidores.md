@@ -33,12 +33,10 @@ Aunque Doctoralia no se encuentra orientada específicamente al monitoreo preven
 
 ### 2.1.1. Análisis competitivo
 
-**¿Por qué llevar a cabo este análisis?**
-
-Analizar a la competencia permitirá identificar cómo VitaLink puede diferenciarse de otras soluciones de monitoreo, cuidado de adultos mayores y acceso a servicios de salud, considerando las necesidades de las familias y proveedores de salud en el mercado peruano.
-
-| | | **VitaLink** | **iDUAM / iDUAMTata** ![Iduam.png](../../assests/Iduam.png) | **CarePredict** ![CarePredict.png](../../assests/CarePredict.png) | **Doctoralia Perú** ![Doctoralia.png](../../assests/Doctoralia.png) |
+|Competitive Analysis Landscape|  |  |  |  |  |
 |---|---|---|---|---|---|
+| **¿Por qué llevar a cabo este análisis?** |  | Analizar a la competencia permitirá identificar cómo VitaLink puede diferenciarse de otras soluciones de monitoreo, cuidado de adultos mayores y acceso a servicios de salud, considerando las necesidades de las familias y proveedores de salud en el mercado peruano. |  |  |  |
+| | | **VitaLink** ![logo-vitalink.png](../../assets/logo-vitalink.png)| **iDUAM / iDUAMTata** ![Iduam.png](../../assets/Iduam.png) | **CarePredict** ![CarePredict.png](../../assets/CarePredict.png) | **Doctoralia Perú** ![Doctoralia.png](../../assets/Doctoralia.png) |
 | **Perfil** | **Overview** | Plataforma orientada al monitoreo preventivo y acompañamiento de adultos mayores, conectando familiares y proveedores de salud. | Plataforma de telesalud que integra monitoreo biométrico, telemedicina y asistencia para adultos mayores. | Plataforma de monitoreo para adultos mayores mediante wearable y análisis de sus actividades diarias. | Plataforma que conecta pacientes con profesionales de salud y facilita la reserva de consultas. |
 | **Perfil** | **Ventaja competitiva ¿Qué valor ofrece a los clientes?** | Integra monitoreo preventivo, participación familiar y conexión con proveedores de salud en un mismo ecosistema. | Combina monitoreo biométrico, telemedicina, funciones de emergencia y una red familiar. | Especialización en adultos mayores mediante monitoreo continuo y detección de cambios en sus actividades. | Amplia red de profesionales y facilidad para buscar, comparar y reservar servicios médicos. |
 | **Perfil de Marketing** | **Mercado objetivo** | Adultos mayores y sus familias; clínicas, hospitales y profesionales de salud. | Adultos mayores, familias, pacientes que requieren monitoreo e instituciones de salud. | Adultos mayores, familiares, agencias de cuidado y organizaciones de senior living. | Pacientes, profesionales de salud y centros médicos. |
