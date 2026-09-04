@@ -157,7 +157,6 @@ De esta manera, VitaLink mantendrá un proceso organizado de control de versione
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
-### 5.1.3. Source Code Style Guide & Conventions
 
 En cuanto a las convenciones y guías de estilo, para el desarrollo de VitaLink se adoptarán reglas que permitan mantener uniformidad, legibilidad y facilidad de mantenimiento en el código fuente.
 
