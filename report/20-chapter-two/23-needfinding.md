@@ -3,10 +3,27 @@
 ### 2.3.1. User Personas
 
 User Persona del segmento 1:
-![Valeria_Mendoza.png](../../assets/Valeria_Mendoza.png)
+\par
+\noindent
+\includegraphics[
+    width=0.85\linewidth,
+    height=0.80\textheight,
+    keepaspectratio
+]{assets/Valeria_Mendoza.png}
+\par
+
 
 User Persona del segmento 2:
-![Elena_Ramírez.png](../../assets/Elena_Ramírez.png)
+
+\par
+\noindent
+\includegraphics[
+    width=0.85\linewidth,
+    height=0.80\textheight,
+    keepaspectratio
+]{assets/Elena_Ramírez.png}
+\par
+
 
 
 ### 2.3.2. User Task Matrix
@@ -28,15 +45,49 @@ User Persona del segmento 2:
 ### 2.3.3. User Journey Mapping
 
 User Journey Mapping del segmento 1:
-![Valeria_journey_map.png](../../assets/Valeria_journey_map.png)
+\par
+\noindent
+\includegraphics[
+    width=\linewidth,
+    height=0.70\textheight,
+    keepaspectratio
+]{assets/Valeria_journey_map.png}
+\par
+
+
 
 User Journey Mapping del segmento 2:
-![Elena_journey_map.png](../../assets/Elena_journey_map.png)
+\par
+\noindent
+\includegraphics[
+    width=\linewidth,
+    height=0.70\textheight,
+    keepaspectratio
+]{assets/Elena_journey_map.png}
+\par
+
 
 ### 2.3.4. Empathy Mapping
 
 Empathy Mapping del segmento 1:
-![Valeria_empathy_map.png](../../assets/Valeria_empathy_map.png)
+\par
+\noindent
+\includegraphics[
+    width=\linewidth,
+    height=0.70\textheight,
+    keepaspectratio
+]{assets/Valeria_empathy_map.png}
+\par
+
+
 
 Empathy Mapping del segmento 2:
-![Elena_empathy_map.png](../../assets/Elena_empathy_map.png)
+\par
+\noindent
+\includegraphics[
+    width=\linewidth,
+    height=0.70\textheight,
+    keepaspectratio
+]{assets/Elena_empathy_map.png}
+\par
+

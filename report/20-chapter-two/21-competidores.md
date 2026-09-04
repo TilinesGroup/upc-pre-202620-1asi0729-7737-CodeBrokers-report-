@@ -33,21 +33,364 @@ Aunque Doctoralia no se encuentra orientada específicamente al monitoreo preven
 
 ### 2.1.1. Análisis competitivo
 
-|Competitive Analysis Landscape|  |  |  |  |  |
-|---|---|---|---|---|---|
-| **¿Por qué llevar a cabo este análisis?** |  | Analizar a la competencia permitirá identificar cómo VitaLink puede diferenciarse de otras soluciones de monitoreo, cuidado de adultos mayores y acceso a servicios de salud, considerando las necesidades de las familias y proveedores de salud en el mercado peruano. |  |  |  |
-| | | **VitaLink** ![logo-vitalink.png](../../assets/logo-vitalink.png)| **iDUAM / iDUAMTata** ![Iduam.png](../../assets/Iduam.png) | **CarePredict** ![CarePredict.png](../../assets/CarePredict.png) | **Doctoralia Perú** ![Doctoralia.png](../../assets/Doctoralia.png) |
-| **Perfil** | **Overview** | Plataforma orientada al monitoreo preventivo y acompañamiento de adultos mayores, conectando familiares y proveedores de salud. | Plataforma de telesalud que integra monitoreo biométrico, telemedicina y asistencia para adultos mayores. | Plataforma de monitoreo para adultos mayores mediante wearable y análisis de sus actividades diarias. | Plataforma que conecta pacientes con profesionales de salud y facilita la reserva de consultas. |
-| **Perfil** | **Ventaja competitiva ¿Qué valor ofrece a los clientes?** | Integra monitoreo preventivo, participación familiar y conexión con proveedores de salud en un mismo ecosistema. | Combina monitoreo biométrico, telemedicina, funciones de emergencia y una red familiar. | Especialización en adultos mayores mediante monitoreo continuo y detección de cambios en sus actividades. | Amplia red de profesionales y facilidad para buscar, comparar y reservar servicios médicos. |
-| **Perfil de Marketing** | **Mercado objetivo** | Adultos mayores y sus familias; clínicas, hospitales y profesionales de salud. | Adultos mayores, familias, pacientes que requieren monitoreo e instituciones de salud. | Adultos mayores, familiares, agencias de cuidado y organizaciones de senior living. | Pacientes, profesionales de salud y centros médicos. |
-| **Perfil de Marketing** | **Estrategias de marketing** |  Promoción digital dirigida a familias y alianzas con proveedores de salud. | Promoción de su ecosistema de telesalud y alianzas con organizaciones públicas y privadas. | Casos de éxito y promoción de tecnología para mejorar el cuidado y seguridad de adultos mayores. | Posicionamiento digital, opiniones de pacientes y mayor visibilidad para los profesionales registrados. |
-| **Perfil de Producto** | **Productos & Servicios** | Monitoreo de indicadores, alertas, historial del adulto mayor, red familiar y solicitudes de atención. | Monitoreo biométrico, telemedicina, SOS, geolocalización, historial y acompañamiento remoto. | Wearable Tempo, monitoreo de actividad, detección de caídas, ubicación y alertas. | Búsqueda de profesionales, citas, videoconsultas, agenda y gestión de pacientes. |
-| **Perfil de Producto** | **Precios & Costos** |  Modelo de suscripción para familias y membresías o comisiones para proveedores de salud. | Suscripción mensual por planes, complementada con venta de dispositivos. También ofrece soluciones B2B y B2G. | Venta de hardware especializado complementada con una suscripción mensual al servicio. | Modelo freemium para profesionales, complementado con planes de suscripción de pago. |
-| **Perfil de Producto** | **Canales de distribución (Web y/o Móvil)** | Web Application responsive y Landing Page. | Aplicación móvil, plataforma web y dispositivos inteligentes. | Aplicación móvil, plataforma web y wearable propio. | Plataforma web y aplicación móvil. |
-| **Análisis SWOT** | **Fortalezas** |  Enfoque en adultos mayores, integración entre familia y proveedores y adaptación inicial al mercado peruano. | Ecosistema amplio de telesalud, monitoreo biométrico y funciones específicas para adultos mayores. | Alta especialización en monitoreo de adultos mayores y wearable propio. | Amplia presencia digital, red de profesionales y herramientas para pacientes y especialistas. |
-| **Análisis SWOT** | **Debilidades** |  Marca nueva, sin una red consolidada de usuarios o proveedores y con IoT inicialmente simulado. | Dependencia de dispositivos asociados y mayor complejidad por la cantidad de funcionalidades ofrecidas. | Requiere hardware especializado y una suscripción para utilizar el servicio completo. | Su propuesta no está especializada en adultos mayores ni en monitoreo preventivo continuo. |
-| **Análisis SWOT** | **Oportunidades** |  Crecimiento de la población adulta mayor y mayor interés por soluciones de salud y monitoreo remoto. | Expansión de servicios de telesalud y monitoreo domiciliario en Latinoamérica. | Mayor demanda de tecnologías que apoyen el cuidado independiente de adultos mayores. | Crecimiento de la adopción de reservas y consultas médicas digitales. |
-| **Análisis SWOT** | **Amenazas** | Competidores internacionales consolidados y dificultad inicial para generar confianza y alianzas. |  Aparición de nuevas plataformas de telemedicina y dispositivos de monitoreo. | Wearables de consumo que incorporen funcionalidades similares de monitoreo. |  Otras plataformas de citas y soluciones propias desarrolladas por clínicas. |
+\setlength{\LTleft}{\fill}
+\setlength{\LTright}{\fill}
+\setlength{\LTpre}{4pt}
+\setlength{\LTpost}{4pt}
+
+\fontsize{6.6}{7.4}\selectfont
+\setlength{\tabcolsep}{1.1pt}
+\renewcommand{\arraystretch}{1.25}
+
+\begin{longtable}{
+|>{\centering\arraybackslash}p{0.07\textwidth}
+|>{\raggedright\arraybackslash}p{0.14\textwidth}
+|>{\raggedright\arraybackslash}p{0.175\textwidth}
+|>{\raggedright\arraybackslash}p{0.175\textwidth}
+|>{\raggedright\arraybackslash}p{0.175\textwidth}
+|>{\raggedright\arraybackslash}p{0.175\textwidth}|
+}
+
+% ============================================================
+% TÍTULO
+% ============================================================
+
+\hline
+
+\multicolumn{6}{|c|}{
+    \textbf{\normalsize Competitive Analysis Landscape}
+}
+\\
+
+\hline
+
+
+% ============================================================
+% OBJETIVO DEL ANÁLISIS
+% ============================================================
+
+\multicolumn{2}{
+|>{\raggedright\arraybackslash}p{0.21\textwidth}|
+}{
+    \textbf{¿Por qué llevar a cabo este análisis?}
+}
+&
+\multicolumn{4}{
+>{\raggedright\arraybackslash}p{0.70\textwidth}|
+}{
+    Analizar a la competencia permitirá identificar cómo VitaLink puede
+    diferenciarse de otras soluciones de monitoreo, cuidado de adultos mayores
+    y acceso a servicios de salud, considerando las necesidades de las familias
+    y proveedores de salud en el mercado peruano.
+}
+\\
+
+\hline
+
+
+% ============================================================
+% NOMBRES Y LOGOS
+% ============================================================
+
+\multicolumn{2}{
+|>{\raggedright\arraybackslash}p{0.21\textwidth}|
+}{
+    \textbf{}
+}
+&
+{
+\begin{minipage}[c][1.55cm][c]{\linewidth}
+\centering
+\textbf{VitaLink}
+
+\vspace{3pt}
+
+\includegraphics[
+    width=1.7cm,
+    height=0.75cm,
+    keepaspectratio
+]{assets/logo-vitalink.png}
+\end{minipage}
+}
+&
+{
+\begin{minipage}[c][1.55cm][c]{\linewidth}
+\centering
+\textbf{iDUAM / iDUAMTata}
+
+\vspace{3pt}
+
+\includegraphics[
+    width=1.7cm,
+    height=0.75cm,
+    keepaspectratio
+]{assets/Iduam.png}
+\end{minipage}
+}
+&
+{
+\begin{minipage}[c][1.55cm][c]{\linewidth}
+\centering
+\textbf{CarePredict}
+
+\vspace{3pt}
+
+\includegraphics[
+    width=1.7cm,
+    height=0.75cm,
+    keepaspectratio
+]{assets/CarePredict.png}
+\end{minipage}
+}
+&
+{
+\begin{minipage}[c][1.55cm][c]{\linewidth}
+\centering
+\textbf{Doctoralia Perú}
+
+\vspace{3pt}
+
+\includegraphics[
+    width=1.7cm,
+    height=0.75cm,
+    keepaspectratio
+]{assets/Doctoralia.png}
+\end{minipage}
+}
+\\
+
+\hline
+
+
+% ============================================================
+% PERFIL
+% ============================================================
+
+\multirow{2}{*}{
+    \rotatebox[origin=c]{90}{
+        \textbf{Perfil}
+    }
+}
+&
+\textbf{Overview}
+&
+Plataforma orientada al monitoreo preventivo y acompañamiento de adultos
+mayores, conectando familiares y proveedores de salud.
+&
+Plataforma de telesalud que integra monitoreo biométrico, telemedicina y
+asistencia para adultos mayores.
+&
+Plataforma de monitoreo para adultos mayores mediante wearable y análisis
+de sus actividades diarias.
+&
+Plataforma que conecta pacientes con profesionales de salud y facilita la
+reserva de consultas.
+\\
+
+\cline{2-6}
+
+&
+\textbf{Ventaja competitiva ¿Qué valor ofrece a los clientes?}
+&
+Integra monitoreo preventivo, participación familiar y conexión con
+proveedores de salud en un mismo ecosistema.
+&
+Combina monitoreo biométrico, telemedicina, funciones de emergencia y una
+red familiar.
+&
+Especialización en adultos mayores mediante monitoreo continuo y detección
+de cambios en sus actividades.
+&
+Amplia red de profesionales y facilidad para buscar, comparar y reservar
+servicios médicos.
+\\
+
+\hline
+
+
+% ============================================================
+% PERFIL DE MARKETING
+% ============================================================
+
+\multirow{2}{*}{
+    \rotatebox[origin=c]{90}{
+        \textbf{Perfil de Marketing}
+    }
+}
+&
+\textbf{Mercado objetivo}
+&
+Adultos mayores y sus familias; clínicas, hospitales y profesionales de salud.
+&
+Adultos mayores, familias, pacientes que requieren monitoreo e instituciones
+de salud.
+&
+Adultos mayores, familiares, agencias de cuidado y organizaciones de
+senior living.
+&
+Pacientes, profesionales de salud y centros médicos.
+\\
+
+\cline{2-6}
+
+&
+\textbf{Estrategias de marketing}
+&
+Promoción digital dirigida a familias y alianzas con proveedores de salud.
+&
+Promoción de su ecosistema de telesalud y alianzas con organizaciones
+públicas y privadas.
+&
+Casos de éxito y promoción de tecnología para mejorar el cuidado y seguridad
+de adultos mayores.
+&
+Posicionamiento digital, opiniones de pacientes y mayor visibilidad para los
+profesionales registrados.
+\\
+
+\hline
+
+
+% ============================================================
+% PERFIL DE PRODUCTO
+% ============================================================
+
+\multirow{3}{*}{
+    \rotatebox[origin=c]{90}{
+        \textbf{Perfil de Producto}
+    }
+}
+&
+\textbf{Productos \& Servicios}
+&
+Monitoreo de indicadores, alertas, historial del adulto mayor, red familiar
+y solicitudes de atención.
+&
+Monitoreo biométrico, telemedicina, SOS, geolocalización, historial y
+acompañamiento remoto.
+&
+Wearable Tempo, monitoreo de actividad, detección de caídas, ubicación
+y alertas.
+&
+Búsqueda de profesionales, citas, videoconsultas, agenda y gestión de
+pacientes.
+\\
+
+\cline{2-6}
+
+&
+\textbf{Precios \& Costos}
+&
+Modelo de suscripción para familias y membresías o comisiones para
+proveedores de salud.
+&
+Suscripción mensual por planes, complementada con venta de dispositivos.
+También ofrece soluciones B2B y B2G.
+&
+Venta de hardware especializado complementada con una suscripción mensual
+al servicio.
+&
+Modelo freemium para profesionales, complementado con planes de
+suscripción de pago.
+\\
+
+\cline{2-6}
+
+&
+\textbf{Canales de distribución (Web y/o Móvil)}
+&
+Web Application responsive y Landing Page.
+&
+Aplicación móvil, plataforma web y dispositivos inteligentes.
+&
+Aplicación móvil, plataforma web y wearable propio.
+&
+Plataforma web y aplicación móvil.
+\\
+
+\hline
+
+
+% ============================================================
+% ANÁLISIS SWOT
+% ============================================================
+
+\multirow{4}{*}{
+    \rotatebox[origin=c]{90}{
+        \textbf{Análisis SWOT}
+    }
+}
+
+&
+\textbf{Fortalezas}
+&
+Enfoque en adultos mayores, integración entre familia y proveedores y
+adaptación inicial al mercado peruano.
+&
+Ecosistema amplio de telesalud, monitoreo biométrico y funciones específicas
+para adultos mayores.
+&
+Alta especialización en monitoreo de adultos mayores y wearable propio.
+&
+Amplia presencia digital, red de profesionales y herramientas para pacientes
+y especialistas.
+\\
+
+\cline{2-6}
+
+&
+\textbf{Debilidades}
+&
+Marca nueva, sin una red consolidada de usuarios o proveedores y con IoT
+inicialmente simulado.
+&
+Dependencia de dispositivos asociados y mayor complejidad por la cantidad
+de funcionalidades ofrecidas.
+&
+Requiere hardware especializado y una suscripción para utilizar el servicio
+completo.
+&
+Su propuesta no está especializada en adultos mayores ni en monitoreo
+preventivo continuo.
+\\
+
+\cline{2-6}
+
+&
+\textbf{Oportunidades}
+&
+Crecimiento de la población adulta mayor y mayor interés por soluciones de
+salud y monitoreo remoto.
+&
+Expansión de servicios de telesalud y monitoreo domiciliario en
+Latinoamérica.
+&
+Mayor demanda de tecnologías que apoyen el cuidado independiente de
+adultos mayores.
+&
+Crecimiento de la adopción de reservas y consultas médicas digitales.
+\\
+
+\cline{2-6}
+
+&
+\textbf{Amenazas}
+&
+Competidores internacionales consolidados y dificultad inicial para generar
+confianza y alianzas.
+&
+Aparición de nuevas plataformas de telemedicina y dispositivos de monitoreo.
+&
+Wearables de consumo que incorporen funcionalidades similares de monitoreo.
+&
+Otras plataformas de citas y soluciones propias desarrolladas por clínicas.
+\\
+
+\hline
+
+\end{longtable}
+
+\normalsize
 
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
