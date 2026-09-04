@@ -37,9 +37,9 @@ Los repositorios serán administrados dentro de la organización **TilinesGroup*
 
 | Solución | Nombre del repositorio | Enlace |
 |----------|-------------------------|--------|
-| Landing Page | Pendiente | Pendiente |
-| Frontend Web Application | Pendiente | Pendiente |
-| Backend - RESTful Web Services | Pendiente | Pendiente |
+| Landing Page |  |  |
+| Frontend Web Application |  |  |
+| Backend - RESTful Web Services |  |  |
 
 En el caso del repositorio correspondiente a los **RESTful Web Services**, además del código fuente del backend, se almacenarán los archivos correspondientes a las pruebas unitarias, pruebas de integración y pruebas de aceptación necesarias para comprobar el correcto funcionamiento de los servicios implementados.
 
